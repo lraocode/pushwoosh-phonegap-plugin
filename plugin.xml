@@ -13,7 +13,7 @@
 
 	<license>MIT</license>
 
-	<repo>https://github.com/lraocode/pushwoosh-phonegap-plugin</repo>
+	<repo>https://github.com/lraocode/pushwoosh-phonegap-plugin/tree/wheelsfix</repo>
 	<issue>https://github.com/Pushwoosh/pushwoosh-phonegap-plugin/issues</issue>
 
 	<preference name="LOG_LEVEL" default="DEBUG" />
